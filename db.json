@@ -26,48 +26,63 @@
     }
   },
   "posts": {
-    "content": {
-      "1": {
+    "content": [
+      {
         "category": "blog",
         "slug": "what-is-the-big-r-for-marketing-your-business-pt1",
         "date": "2018-09-10T01:00:00",
         "excerpt": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
         "title": "What Is The Big R For Marketing Your Business Pt1",
-        "image": "https://picsum.photos/1000/500/?random"
+        "image": "https://picsum.photos/1000/500/?random",
+        "author": "Haseeba Saban",
+        "ID": "1",
+        "content": "<p class=\"lead\">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum tincidunt justo, sit amet egestas lorem porta nec. Nulla tristique aliquam quam venenatis pretium. Morbi mollis auctor eleifend. Sed luctus rhoncus tortor quis placerat. Nunc nec mollis est. Aliquam at scelerisque ligula. Morbi porta mauris id justo vulputate, eget posuere risus volutpat. Nulla ultrices dictum sem. Ut sollicitudin sed enim sit amet finibus. Quisque in nunc at velit iaculis accumsan vel sit amet felis. Suspendisse bibendum felis at metus convallis, eget faucibus sapien fringilla. Suspendisse potenti.</p>"
       },
-      "7": {
+      {
         "category": "vlog",
         "slug": "an-interview-with-emily-van-vught-vlog",
         "date": "2018-09-18T01:00:00",
         "excerpt": "See CHATTERiNKs' Chief Content Queen, Haseeba Saban in action as she interviews Dutch Brand Strategist, Emily van Vught http://www.emilyvanvught.nl/ on behalf of Female Ventures (Non-Profit Female Org).",
         "title": "An interview with Emily van Vught",
-        "youtube": "https://www.youtube.com/watch?v=IK1JwYxt52o"
+        "youtube": "https://www.youtube.com/watch?v=IK1JwYxt52o",
+        "author": "Haseeba Saban",
+        "ID": "2",
+        "content": "<p class=\"lead\">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum tincidunt justo, sit amet egestas lorem porta nec. Nulla tristique aliquam quam venenatis pretium. Morbi mollis auctor eleifend. Sed luctus rhoncus tortor quis placerat. Nunc nec mollis est. Aliquam at scelerisque ligula. Morbi porta mauris id justo vulputate, eget posuere risus volutpat. Nulla ultrices dictum sem. Ut sollicitudin sed enim sit amet finibus. Quisque in nunc at velit iaculis accumsan vel sit amet felis. Suspendisse bibendum felis at metus convallis, eget faucibus sapien fringilla. Suspendisse potenti.</p>"
       },
-      "15": {
+      {
         "category": "podcast",
         "slug": "an-interview-with-emily-van-vught",
         "date": "2018-09-19T01:00:00",
         "excerpt": "See CHATTERiNKs' Chief Content Queen, Haseeba Saban in action as she interviews Dutch Brand Strategist, Emily van Vught http://www.emilyvanvught.nl/ on behalf of Female Ventures (Non-Profit Female Org).",
         "title": "An interview with Emily van Vught",
         "image": "https://picsum.photos/1000/500/?random",
-        "audio": "https://contentfactory.saban.world/content/podcasts/podcast.mp3"
+        "audio": "https://contentfactory.saban.world/content/podcasts/podcast.mp3",
+        "author": "Haseeba Saban",
+        "ID": "3",
+        "content": "<p class=\"lead\">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum tincidunt justo, sit amet egestas lorem porta nec. Nulla tristique aliquam quam venenatis pretium. Morbi mollis auctor eleifend. Sed luctus rhoncus tortor quis placerat. Nunc nec mollis est. Aliquam at scelerisque ligula. Morbi porta mauris id justo vulputate, eget posuere risus volutpat. Nulla ultrices dictum sem. Ut sollicitudin sed enim sit amet finibus. Quisque in nunc at velit iaculis accumsan vel sit amet felis. Suspendisse bibendum felis at metus convallis, eget faucibus sapien fringilla. Suspendisse potenti.</p>"
       },
-      "17": {
+      {
         "category": "blog",
         "slug": "what-is-the-big-r-for-marketing-your-business-pt2",
         "date": "2018-09-20T01:00:00",
         "excerpt": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
         "title": "What Is The Big R For Marketing Your Business Pt2",
-        "image": "https://picsum.photos/1000/500/?random"
+        "image": "https://picsum.photos/1000/500/?random",
+        "author": "Haseeba Saban",
+        "ID": "4",
+        "content": "<p class=\"lead\">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum tincidunt justo, sit amet egestas lorem porta nec. Nulla tristique aliquam quam venenatis pretium. Morbi mollis auctor eleifend. Sed luctus rhoncus tortor quis placerat. Nunc nec mollis est. Aliquam at scelerisque ligula. Morbi porta mauris id justo vulputate, eget posuere risus volutpat. Nulla ultrices dictum sem. Ut sollicitudin sed enim sit amet finibus. Quisque in nunc at velit iaculis accumsan vel sit amet felis. Suspendisse bibendum felis at metus convallis, eget faucibus sapien fringilla. Suspendisse potenti.</p>"
       },
-      "20": {
+      {
         "category": "blog",
         "slug": "what-is-the-big-r-for-marketing-your-business-pt3",
         "date": "2018-09-22T01:00:00",
         "excerpt": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
         "title": "What Is The Big R For Marketing Your Business Pt3",
-        "image": "https://picsum.photos/1000/500/?random"
+        "image": "https://picsum.photos/1000/500/?random",
+        "author": "Haseeba Saban",
+        "ID": "5",
+        "content": "<p class=\"lead\">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum tincidunt justo, sit amet egestas lorem porta nec. Nulla tristique aliquam quam venenatis pretium. Morbi mollis auctor eleifend. Sed luctus rhoncus tortor quis placerat. Nunc nec mollis est. Aliquam at scelerisque ligula. Morbi porta mauris id justo vulputate, eget posuere risus volutpat. Nulla ultrices dictum sem. Ut sollicitudin sed enim sit amet finibus. Quisque in nunc at velit iaculis accumsan vel sit amet felis. Suspendisse bibendum felis at metus convallis, eget faucibus sapien fringilla. Suspendisse potenti.</p>"
       }
-    }
+    ]
   }
 }
