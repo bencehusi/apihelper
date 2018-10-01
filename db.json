@@ -25,11 +25,49 @@
       }
     }
   },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "posts": {
+    "content": {
+      "1": {
+        "category": "blog",
+        "slug": "what-is-the-big-r-for-marketing-your-business-pt1",
+        "date": "2018-09-10T01:00:00",
+        "excerpt": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
+        "title": "What Is The Big R For Marketing Your Business Pt1",
+        "image": "https://picsum.photos/1000/500/?random"
+      },
+      "7": {
+        "category": "vlog",
+        "slug": "an-interview-with-emily-van-vught-vlog",
+        "date": "2018-09-18T01:00:00",
+        "excerpt": "See CHATTERiNKs' Chief Content Queen, Haseeba Saban in action as she interviews Dutch Brand Strategist, Emily van Vught http://www.emilyvanvught.nl/ on behalf of Female Ventures (Non-Profit Female Org).",
+        "title": "An interview with Emily van Vught",
+        "youtube": "https://www.youtube.com/watch?v=IK1JwYxt52o"
+      },
+      "15": {
+        "category": "podcast",
+        "slug": "an-interview-with-emily-van-vught",
+        "date": "2018-09-19T01:00:00",
+        "excerpt": "See CHATTERiNKs' Chief Content Queen, Haseeba Saban in action as she interviews Dutch Brand Strategist, Emily van Vught http://www.emilyvanvught.nl/ on behalf of Female Ventures (Non-Profit Female Org).",
+        "title": "An interview with Emily van Vught",
+        "image": "https://picsum.photos/1000/500/?random",
+        "audio": "https://contentfactory.saban.world/content/podcasts/podcast.mp3"
+      },
+      "17": {
+        "category": "blog",
+        "slug": "what-is-the-big-r-for-marketing-your-business-pt2",
+        "date": "2018-09-20T01:00:00",
+        "excerpt": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
+        "title": "What Is The Big R For Marketing Your Business Pt2",
+        "image": "https://picsum.photos/1000/500/?random"
+      },
+      "20": {
+        "category": "blog",
+        "slug": "what-is-the-big-r-for-marketing-your-business-pt3",
+        "date": "2018-09-22T01:00:00",
+        "excerpt": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
+        "title": "What Is The Big R For Marketing Your Business Pt3",
+        "image": "https://picsum.photos/1000/500/?random"
+      }
+    }
   }
 }
